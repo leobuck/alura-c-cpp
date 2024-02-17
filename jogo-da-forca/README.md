@@ -1,0 +1,3 @@
+Para executar: Utilizar F6 no VSCode
+
+[text](https://www.alura.com.br/artigos/compilando-executando-programas-c-c-windows?utm_source=gnarus&utm_medium=timeline&_gl=1*l0l7tk*_ga*NDc1Mzg3NDg0LjE2NjcxNjM1Njc.*_ga_1EPWSW3PCS*MTcwODE2MzU3My4xOTEuMS4xNzA4MTY1MzEyLjAuMC4w*_fplc*USUyRm8wU29oVFZRajlkSzhTM2FvJTJCMzFBZkQ3T2hITmdHdXdCayUyRklMdW54N2k2TzBSR0NBaFU0SEJsUGUlMkZ6WVk3UDU0S3VvNjNRcW42JTJGSEYlMkZJbmpFc1ZPalU2Zk52Rmt4N0l2UmRVU21DM21oUHBnUXhFSXNNc1A3OHJOWGNnJTNEJTNE)
